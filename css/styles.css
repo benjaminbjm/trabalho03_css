@@ -1,0 +1,23 @@
+body {
+            font: 16px Arial, sans-serif; /* Ajuste o tamanho da fonte para melhor leitura em dispositivos móveis */
+        }
+.navbar {
+            background-color: #58D68D;
+        }
+.quem-somos {
+            background-color: #3498DB;
+            color: #FDFEFE;
+        }
+.parceiros {
+            background-color: #85929E; 
+            color: white;
+        }
+.bg-footer {
+            background-color: #17202A;
+            color: white;
+        }
+.margin {
+            padding-top: 10px;
+            padding-bottom: 50px;
+        }
+
